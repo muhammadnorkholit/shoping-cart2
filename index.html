@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="navbar">
+            <div class="logo"><a href="/"> OrenJi App</a></div>
+            <div class="search"><i class="fa fa-search icon-search"></i><input type="search" placeholder="search...."
+                    name="" id=""></div>
+            <div class="cart"><a href="#" id="cart"><i class="fa-solid fa-cart-shopping"></i>
+                    <span class="cart-num ">0</span></a>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <div class="boxs">
+
+            </div>
+        </div>
+    </main>
+
+
+
+    <div class="container cart_container">
+        <span class="close"><i class="fa fas fa-window-close"></i></span>
+        <h2>keranjang</h2>
+        <div class="cart-box">
+            <div class="product-cart">
+                <div class="product">
+                    <figure>
+                        <img src="https://assets.klikindomaret.com/share/20092710_1.jpg" alt="">
+                    </figure>
+                    <div class="info">
+                        <p class="title">title</p>
+                        <p class="price">IDR 2011</p>
+                    </div>
+                    <div class="action">
+                        <i class="fa far far fa-trash-alt remove-cart"></i>
+
+                    </div>
+                </div>
+                <div class="product">
+                    <figure>
+                        <img src="https://assets.klikindomaret.com/share/20092710_1.jpg" alt="">
+                    </figure>
+                    <div class="info">
+                        <p class="title">title</p>
+                        <p class="price">IDR 2011</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="checkout">
+                <h3>ringkasan belanja</h3>
+                <form action="">
+                    <input type="text" placeholder="nama lengkap" name="" id="">
+                    <textarea name="" placeholder="alamat lengkap" id="" cols="30" rows="6"></textarea>
+                    <div class="info">
+                        <p>total harga (1 barang)</p>
+                        <p class="price">IDR 60.000</p>
+                    </div>
+                    <button type="submit">checkout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script type="module" src="app.js"></script>
+
+
+</body>
+
+</html>

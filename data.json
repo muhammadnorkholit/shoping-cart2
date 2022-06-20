@@ -1,0 +1,36 @@
+[{
+        "id": "1",
+        "title": "Bimoli",
+        "price": "25000",
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-8368902/bimoli_bimoli_klasik_minyak_goreng_-1_l-_full01_epqmg084.jpg"
+    }, {
+        "id": "2",
+        "title": "Beras Pulen",
+        "price": "60000",
+        "image": "https://assets.klikindomaret.com/share/20092710_1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Gulaku",
+        "price": "20000",
+        "image": "https://www.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/8/0/80P101558288-21.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Bango",
+        "price": "10000",
+        "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//106/MTA-10797585/bango_bango-kecap-manis-135-ml_full01.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Garam ",
+        "price": "5000",
+        "image": "https://s3.bukalapak.com/img/31649419652/s-330-330/data.png.webp"
+    },
+    {
+        "id": "6",
+        "title": "Shampo  ",
+        "price": "5000",
+        "image": "https://s4.bukalapak.com/bukalapak-kontenz-production/content_attachments/47479/original/Korea_Grafen_Root_Booster_Shampoo_Hair_Loss_Care_500ml_1.jpg"
+    }
+]
